@@ -1,7 +1,7 @@
 **Project Description: Customized Library Management System**
 
 **Overview:**
-Our Customized Library Management System is a robust and efficient Java-based command-line application designed to streamline library operations and enhance overall efficiency. This versatile system incorporates essential features such as CRUD (Create, Read, Update, Delete) operations for both books and users, advanced search capabilities, book issuing, and serialization/deserialization for secure data storage. The system also includes an authentication mechanism, ensuring that only authorized administrators can perform certain functions.
+A Customized Library Management System is a robust and efficient Java-based command-line application designed to streamline library operations and enhance overall efficiency. This versatile system incorporates essential features such as CRUD (Create, Read, Update, Delete) operations for both books and users, advanced search capabilities, book issuing, and serialization/deserialization for secure data storage. The system also includes an authentication mechanism, ensuring that only authorized administrators can perform certain functions.
 
 **Key Features:**
 
